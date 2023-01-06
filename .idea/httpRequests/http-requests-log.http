@@ -1,0 +1,27 @@
+GET http://localhost:7001/books/1
+
+<> 2023-01-03T083807.200.json
+
+###
+
+GET http://localhost:7001/books/1
+
+<> 2023-01-03T083711.200.json
+
+###
+
+GET http://localhost:7001/books/1
+
+<> 2023-01-03T083423.200.json
+
+###
+
+GET http://localhost:7001/books/1
+
+<> 2023-01-03T082754.200.json
+
+###
+
+GET http://localhost:7001/books/1
+
+<> 2023-01-03T082733.200.json
